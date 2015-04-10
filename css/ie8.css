@@ -1,0 +1,10 @@
+.left {width:48%!important;float:left !important;}
+.right {width:48%!important;float:right}
+
+#screenshots {
+  width:320px;
+		 margin:0 auto;
+		 border:solid 1px #c8c6c6;
+		 padding:20px 20px 30px 20px;
+		 background: #FFFFFF url('../img/bg_screenshots.gif') repeat-x 0 100%;
+}
